@@ -17,7 +17,6 @@ public class UnitTest1
     [Fact]
     public void CanCreate1x1Board()
     {
-        Assert.Equal(Board.CreateBoard(1, 1), new List<List<string>>(){new List<string>(),
-        new List<string>()});
+        Assert.Equal(Board.CreateBoard(1, 1), new List<List<string>>(){new List<string>()});
     }
 }
