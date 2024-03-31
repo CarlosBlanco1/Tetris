@@ -1,0 +1,15 @@
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.AssemblyInfoInputs.cache
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.AssemblyInfo.cs
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.csproj.CoreCompileInputs.cache
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.sourcelink.json
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/bin/Debug/net8.0/Tetris.Console
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/bin/Debug/net8.0/Tetris.Console.deps.json
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/bin/Debug/net8.0/Tetris.Console.runtimeconfig.json
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/bin/Debug/net8.0/Tetris.Console.dll
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/bin/Debug/net8.0/Tetris.Console.pdb
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.dll
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/refint/Tetris.Console.dll
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.pdb
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/Tetris.Console.genruntimeconfig.cache
+/Users/carlosfelipeblancocastro/Desktop/Tetris/Tetris.Console/obj/Debug/net8.0/ref/Tetris.Console.dll
