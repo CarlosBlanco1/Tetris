@@ -11,7 +11,7 @@ public class Board()
     {
         if(rows > 0)
         {
-            for (int i = 0; i <= rows; i++)
+            for (int i = 0; i < rows; i++)
             {
                 var temp = new List<string>();
                 for (int j = 0; j < columns; j++)

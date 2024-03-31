@@ -19,7 +19,7 @@ public class UnitTest1
     [Fact]
     public void CanCreate1x1Board()
     {
-        Assert.Equal(TestBoard.CreateBoard(1, 1), new List<List<string>>(){new List<string>()});
+        Assert.Equal(TestBoard.CreateBoard(1, 1), new List<List<string>>(){new List<string>(){" "}});
     }
 
     [Fact]
