@@ -19,4 +19,10 @@ public class UnitTest1
     {
         Assert.Equal(Board.CreateBoard(1, 1), new List<List<string>>(){new List<string>()});
     }
+
+    [Fact]
+    public void CanCreate2x2Board()
+    {
+        Assert.Equal(Board.CreateBoard(2, 2), new List<List<string>>(){new List<string>(){" ", " "}, new List<string>(){" ", " "}, });
+    }
 }
