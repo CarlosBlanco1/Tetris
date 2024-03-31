@@ -25,6 +25,12 @@ public class UnitTest1
     [Fact]
     public void CanCreate2x2Board()
     {
-        Assert.Equal(TestBoard.CreateBoard(2, 2), new List<List<string>>(){new List<string>(){" ", " "}, new List<string>(){" ", " "}, });
+        Assert.Equal(TestBoard.CreateBoard(2, 2), new List<List<string>>(){new List<string>(){" ", " "}, new List<string>(){" ", " "}});
+    }
+
+    [Fact]
+    public void CanCreate3x3Board()
+    {
+        Assert.Equal(TestBoard.CreateBoard(3, 3), new List<List<string>>(){new List<string>(){" ", " ", " "}, new List<string>(){" ", " ", " "}, new List<string>(){" ", " ", " "} });
     }
 }
