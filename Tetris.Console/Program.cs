@@ -1,14 +1,27 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Runtime.CompilerServices;
+
 Console.WriteLine("Hello, World!");
 
 public class Board()
 {
-    public static IEnumerable<List<string>>? CreateBoard(int columns, int rows)
+    List<List<string>> Grid {get; set;} = new();
+    public IEnumerable<List<string>>? CreateBoard(int rows, int columns)
     {
-        if(columns > 0)
+        if(rows > 0)
         {
-            return new List<List<string>>(){new List<string>()};
+            for (int i = 0; i <= rows; i++)
+            {
+                var temp = new List<string>();
+                for (int j = 0; j < columns; j++)
+                {
+                    temp.Add(" ");
+                }
+                Grid.Add(temp);     
+            }
+
+            return Grid;
         }
         return new List<List<string>>(){};
     }
